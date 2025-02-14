@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZToBXqE9+9kwsQ5oZvycOsO4DMhj9SKE9c3Wy5iVkocRMPDqXJuNVfy7oQHLfOc9hm2YiKh7YNj+glBAPVqjrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tolka\\OneDrive\\Рабочий стол\\шарп\\miniHW1_KPO_Tolmacheva\\miniHW1_KPO_Tolmacheva\\miniHW1_KPO_Tolmacheva.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tolka\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\tolka\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\tolka\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tolka\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\tolka\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\tolka\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\tolka\\.nuget\\packages\\nunitlite\\3.13.3\\nunitlite.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
